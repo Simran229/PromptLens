@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# dotenv environment variables file
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db 
